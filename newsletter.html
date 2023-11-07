@@ -6,9 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Alura Newsletter</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              blue: {
+                light: "#C5DFFF",
+                dark: "#061E3C",
+                hover: "#1057B0",
+              },
+            },
+            fontFamily: {
+              inter: ["Inter", "sans-serif"],
+            },
+          },
+        },
+      };
+    </script>
   </head>
 
-  <body class="">
+  <body class="bg-blue-light font-inter">
     <main class="">
       <section class="">
         <img
