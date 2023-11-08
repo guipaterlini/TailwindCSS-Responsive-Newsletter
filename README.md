@@ -1,30 +1,30 @@
 # Alura Newsletter Project
 
-Este é um exemplo de página de inscrição para a Newsletter da Alura, utilizando HTML, Tailwind CSS e animações SVG. A página é responsiva e foi projetada com foco em uma experiência de usuário suave e atraente.
+This is a sample subscription page for Alura's Newsletter, using HTML, Tailwind CSS, and SVG animations. The page is responsive and designed with a focus on a smooth and engaging user experience.
 
-## Visualizar o Projeto
+## View the Project Live
 
-Você pode ver o projeto ao vivo através deste link: [Ver Demonstração](https://tailwind-css-responsive-newsletter.vercel.app/)
+You can view the live project via this link: [View Demo](https://tailwind-css-responsive-newsletter.vercel.app/)
 
-## Recursos
+## Features
 
-- **Responsividade**: O layout se ajusta para exibição em dispositivos grandes e pequenos.
-- **Tailwind CSS**: Utilização do framework para estilos rápidos e eficientes.
-- **Animações SVG**: Ícones com animações sutis que melhoram a interação do usuário.
+- **Responsiveness**: The layout adjusts for viewing on both large and small devices.
+- **Tailwind CSS**: Uses the framework for fast and efficient styling.
+- **SVG Animations**: Icons with subtle animations that enhance user interaction.
 
-## Pré-visualização
+## Preview
 
-Para ter uma ideia de como o projeto se parece, você pode acessar a versão ao vivo ou ver a imagem abaixo:
+To get an idea of what the project looks like, you can access the live version or see the image below:
 
 ![Alura Newsletter](.//image/preview.png)
 
-## Instalação
+## Installation
 
-Para usar este projeto, siga estas etapas:
+If you want to run a local copy of this project, follow these steps:
 
-1. Clone o repositório para a sua máquina local.
-2. Abra o arquivo `index.html` em um navegador para visualizar o projeto.
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a browser to view the project.
 
 ---
 
-⌨️ com ❤️ por [Guilherme Paterlini](https://github.com/guipaterlini) 😊
+⌨️ with ❤️ by [Guilherme Paterlini](https://github.com/guipaterlini) 😊
