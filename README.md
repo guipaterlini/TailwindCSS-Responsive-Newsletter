@@ -2,6 +2,10 @@
 
 Este é um exemplo de página de inscrição para a Newsletter da Alura, utilizando HTML, Tailwind CSS e animações SVG. A página é responsiva e foi projetada com foco em uma experiência de usuário suave e atraente.
 
+## Visualizar o Projeto
+
+Você pode ver o projeto ao vivo através deste link: [Ver Demonstração](https://tailwind-css-responsive-newsletter.vercel.app/)
+
 ## Recursos
 
 - **Responsividade**: O layout se ajusta para exibição em dispositivos grandes e pequenos.
@@ -10,7 +14,9 @@ Este é um exemplo de página de inscrição para a Newsletter da Alura, utiliza
 
 ## Pré-visualização
 
-![Alura Newsletter](<.//image/preview.png>)
+Para ter uma ideia de como o projeto se parece, você pode acessar a versão ao vivo ou ver a imagem abaixo:
+
+![Alura Newsletter](.//image/preview.png)
 
 ## Instalação
 
@@ -21,5 +27,4 @@ Para usar este projeto, siga estas etapas:
 
 ---
 
-⌨️ com ❤️ por [Guilherme Paterlini](<https://github.com/guipaterlini>) 😊
-
+⌨️ com ❤️ por [Guilherme Paterlini](https://github.com/guipaterlini) 😊
