@@ -17,7 +17,7 @@ Este é um exemplo de página de inscrição para a Newsletter da Alura, utiliza
 Para usar este projeto, siga estas etapas:
 
 1. Clone o repositório para a sua máquina local.
-2. Abra o arquivo `newsletter.html` em um navegador para visualizar o projeto.
+2. Abra o arquivo `index.html` em um navegador para visualizar o projeto.
 
 ---
 
